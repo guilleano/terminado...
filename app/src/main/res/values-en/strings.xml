@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tallerTabletLayout</string>
+    <string name="agregar">add cel</string>
+    <string name="color">color</string>
+    <string name="crear">build</string>
+    <string name="guargar">save</string>
+    <string name="limpiar">clean</string>
+    <string name="marca">brand</string>
+    <string name="listar">to list</string>
+    <string name="mensaje_exitoso">saved data</string>
+    <string name="precio">price</string>
+    <string name="sisOpera">OS</string>
+    <string name="capRam">capacity ram</string>
+</resources>

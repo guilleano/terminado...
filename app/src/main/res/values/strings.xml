@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tallerTabletLayout</string>
+    <string name="precio">Precio</string>
+    <string name="capRam">capRam</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="sisOpera">Sistema Operativo</string>
+    <string name="agregar">AGREGAR CELULAR</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guargar">Guardar</string>
+    <string name="mensaje_exitoso">Datos Guardada Exitosamente</string>
+    <string name="listar">Listar</string>
+    <string name="crear">Crear</string>
+    <string name="repot2">REPORTE 2</string>
+    <string name="repot3">REPORTE 3</string>
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/listar</item>
+        <item>@string/repot2</item>
+        <item>@string/repot3</item>
+    </array>
+
+</resources>
